@@ -1,4 +1,4 @@
-![9b](https://github.com/user-attachments/assets/6242a367-92cf-4ed7-bbf1-ebc3097ec131)![7b](https://github.com/user-attachments/assets/2a0528e0-9a4e-40fe-94a9-eb8a09b8fcbe)![6a](https://github.com/user-attachments/assets/9fcb99e9-4366-46d1-9a05-4f976723125b)![3c](https://github.com/user-attachments/assets/d32edc72-1e81-4b2c-8cce-9bd1af1b1c45)# Python Lab Exercises
+# Python Lab Exercises
 
 This repository contains Python programming exercises covering essential programming concepts.
 
